@@ -66,7 +66,7 @@ target = str(input("\033[1;33m[\033[1;36m ◕‿◕ \033[1;33m]\033[1;35m ENTER 
 
 for p in range (1,100000):
 
-	s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)را
+	s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 
 	if r ==0:
 
